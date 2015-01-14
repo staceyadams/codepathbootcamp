@@ -7,7 +7,7 @@ Completed user stories:
  * [x] Required: Segemented controls with preset percentages
  * [x] Required: Numerical keypad with decimal that dismisses when tapping anywhere on the screen
  * [x] Optional: App icon
- * [x] Required: Custom fonts and colors
+ * [x] Optional: Custom fonts and colors
  
 Walkthrough of all user stories:
 
