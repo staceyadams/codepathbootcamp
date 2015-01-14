@@ -10,4 +10,6 @@ Completed user stories:
  * [x] Required: Custom fonts and colors
  
 Walkthrough of all user stories:
-![Video Walkthrough](tipGif.gif)
+
+![Video Walkthrough]
+(tipGif.gif)
